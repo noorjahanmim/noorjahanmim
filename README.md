@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 ### 🛠 Tools
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,github,figma" />
 
 ---
 

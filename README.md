@@ -1,4 +1,4 @@
-![Banner](https://t4.ftcdn.net/jpg/05/31/53/99/360_F_531539942_1mNHzJYENyhjlvLWrtDjasLCyiiUpju9.jpg)
+![Banner](./banner.svg)
 
 <h1 align="center">Hi 👋, I'm Musfika Rahman Bushra</h1>
 <h3 align="center">Frontend / MERN Developer</h3>
@@ -24,28 +24,20 @@
 ## 🛠️ Skills
 
 ### 💻 Frontend
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
-</p>
 
 ### 🧠 Backend
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
 
 ### 🛠 Tools
-<p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
-</p>
 
 ---
 
 ## 🌐 Connect With Me
-<p>
 <a href="https://github.com/username">GitHub</a> • 
 <a href="https://linkedin.com/in/username">LinkedIn</a> • 
 <a href="https://twitter.com/username">Twitter</a>
-</p>
 
 ---
 
@@ -59,3 +51,4 @@
 </p>
 
 ---
+

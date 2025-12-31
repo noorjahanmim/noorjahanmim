@@ -1,4 +1,4 @@
-![Banner](./banner.svg)
+![Banner](https://www.canva.com/design/DAG9GgrCg-E/bYv0VGpB7FNgEOx5mXzlwA/edit?utm_content=DAG9GgrCg-E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Musfika Rahman Bushra</h1>
 <h3 align="center">Frontend / MERN Developer</h3>

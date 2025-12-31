@@ -1,7 +1,7 @@
-![Banner](https://i.ibb.co/tQLzCLy/github-banner.png)
+![Banner](https://t4.ftcdn.net/jpg/05/31/53/99/360_F_531539942_1mNHzJYENyhjlvLWrtDjasLCyiiUpju9.jpg)
 
-<h1 align="center">Hi 👋, I'm Noor Jahan Mim</h1>
-<h3 align="center">Frontend / Full Stack / MERN Developer</h3>
+<h1 align="center">Hi 👋, I'm Musfika Rahman Bushra</h1>
+<h3 align="center">Frontend / MERN Developer</h3>
 
 ---
 

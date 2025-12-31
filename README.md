@@ -1,7 +1,12 @@
-![Banner](https://www.canva.com/design/DAG9GgrCg-E/bYv0VGpB7FNgEOx5mXzlwA/edit?utm_content=DAG9GgrCg-E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<h1 align="center">Hi 👋, I'm Noor Jahan Mim</h1>
-<h3 align="center">Frontend / Full Stack / MERN Developer</h3>
+<!-- <p align="center">
+  <a href="https://www.canva.com/design/DAG9GgrCg-E/bYv0VGpB7FNgEOx5mXzlwA/edit?utm_content=DAG9GgrCg-E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+    <img src="https://github.com/noorjahanmim/noorjahanmim/blob/main/banner.png" alt="Musfika Rahman Bushra Banner" />
+  </a>
+</p> -->
+
+<h1 align="center">Hi 👋, I'm Musfika Rahman Bushra</h1>
+<h3 align="center">Frontend / MERN Developer</h3>
 
 ---
 
@@ -24,39 +29,28 @@
 ## 🛠️ Skills
 
 ### 💻 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
 
 ### 🧠 Backend
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
 
 ### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=vscode,github,figma" />
 
 ---
 
 ## 🌐 Connect With Me
-<p>
-<a href="https://github.com/username">GitHub</a> • 
-<a href="https://linkedin.com/in/username">LinkedIn</a> • 
-<a href="https://twitter.com/username">Twitter</a>
-</p>
+<a href="https://github.com/noorjahanmim">GitHub</a> • 
+<a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> • 
+<a href="https://twitter.com/your-twitter">Twitter</a>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=username" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahanmim" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=compact"/>
 </p>
-
----
-

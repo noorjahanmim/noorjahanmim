@@ -57,10 +57,14 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahanmim" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=compact"/>
-</p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahanmim&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+  <br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noorjahanmim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+</div>

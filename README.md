@@ -41,9 +41,15 @@
 ## 🌐 Connect With Me
 <div align="center">
 
-<a href="https://github.com/noorjahanmim">GitHub</a> • 
-<a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> • 
-<a href="https://twitter.com/your-twitter">Twitter</a>
+<a href="https://github.com/noorjahanmim">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="http://linkedin.com/in/musfikarahmanbushra">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/musfiyeah">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 </div>
 

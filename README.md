@@ -4,10 +4,11 @@
 <h3 align="center">Frontend / MERN Developer</h3> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F711E1&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Musfika+Rahman+Bushra" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=BD56FB&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Musfika+Rahman+Bushra" />
 
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=23D7FB&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;Creative+Web+Designer" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BD56FB&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Developer;Creative+Web+Designer" />
 </div>
 ---
 

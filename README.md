@@ -1,8 +1,14 @@
 <p align="center"> <img src="Black and Purple Digital Glitch Tech YouTube Banner.png" alt="Musfika Rahman Bushra Banner" /> </p>
 
-<h1 align="center">Hi 👋, I'm Musfika Rahman Bushra</h1>
-<h3 align="center">Frontend / MERN Developer</h3>
+<!-- <h1 align="center">Hi 👋, I'm Musfika Rahman Bushra</h1>
+<h3 align="center">Frontend / MERN Developer</h3> -->
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=F711E1&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Musfika+Rahman+Bushra" alt="Typing SVG" />
+
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=23D7FB&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;Creative+Web+Designer" alt="Typing SVG" />
+</div>
 ---
 
 ### 👩 About Me

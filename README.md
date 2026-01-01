@@ -3,12 +3,42 @@
 <!-- <h1 align="center">Hi 👋, I'm Musfika Rahman Bushra</h1>
 <h3 align="center">Frontend / MERN Developer</h3> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=BD56FB&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Musfika+Rahman+Bushra" />
 
   <br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BD56FB&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Developer;Creative+Web+Designer" />
+</div> -->
+
+
+<div align="center">
+
+# <span style="color:#BD56FB;">Hi 👋, I'm Musfika Rahman Bushra</span>
+
+### <kbd> <span style="color:#BD56FB;">Frontend / MERN Developer</span> </kbd>
+
+---
+
+### 🛠️ Tech Stack & Skills
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahanmim&theme=tokyonight&hide_border=true&stroke=BD56FB&ring=BD56FB" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=compact&theme=tokyonight&hide_border=true&title_color=BD56FB" alt="Top Languages" />
+</p>
+
 </div>
 ---
 

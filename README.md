@@ -66,20 +66,27 @@
 
 ##  GitHub Stats
 
-<div align="center">
+<table align="center">
+  <tr>
+    <!-- GitHub Streak -->
+    <td align="center">
+      <h3>GitHub Streak</h3>
+      <img
+        src="https://streak-stats.demolab.com?user=noorjahanmim&theme=tokyonight&hide_border=true"
+        height="220"
+      />
+    </td>
 
-  <img height="180em"
-    src="https://streak-stats.demolab.com?user=noorjahanmim&theme=tokyonight&hide_border=true" />
+    <!-- Top Languages -->
+    <td align="center">
+      <h3>Top Languages</h3>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=donut&theme=tokyonight&hide_border=true&langs_count=3&hide=python,java,c,cpp,php,typescript,shell,scss"
+        height="220"
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- Top Languages (HTML, CSS, JavaScript) -->
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=compact&theme=tokyonight&hide_border=true&langs_count=3&hide=python,java,c,cpp,php,typescript,shell,scss" />
 
-  <br/>
-
-  <!-- Overall GitHub Stats -->
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=noorjahanmim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
-
+  

@@ -66,17 +66,17 @@
 
 ##  GitHub Stats
 
-<table align="center">
-  <tr>
-    <th width="50%">GitHub Streak</th>
-    <th width="50%">Top Languages</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorjahanmim&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| GitHub Streak | Top Languages |
+|---------------|---------------|
+| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=noorjahanmim&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noorjahanmim&theme=tokyonight)|
+
+</div>
+
+---
+##  Contributions Overview
+
+|  Top Contributed Repositories |  Contribution Statistics |
+|----------------------------------|-----------------------------|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noorjahanmim&theme=2077" /> |  ![](https://github-contributor-stats.vercel.app/api?username=noorjahanmim&limit=5&theme=radical&combine_all_yearly_contributions=true) |

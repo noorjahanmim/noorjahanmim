@@ -71,14 +71,15 @@
   <img height="180em"
     src="https://streak-stats.demolab.com?user=noorjahanmim&theme=tokyonight&hide_border=true" />
 
+  <!-- Top Languages (HTML, CSS, JavaScript) -->
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjahanmim&layout=compact&theme=tokyonight&hide_border=true&langs_count=3&hide=python,java,c,cpp,php,typescript,shell,scss" />
 
   <br/>
 
+  <!-- Overall GitHub Stats -->
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=noorjahanmim&show_icons=true&theme=tokyonight&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api?username=noorjahanmim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
-
 

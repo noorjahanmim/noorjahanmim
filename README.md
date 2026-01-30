@@ -49,7 +49,7 @@
 ##  Connect With Me
 <div align="center">
 
-<a href="https://github.com/noorjahanmim">
+<a href="https://github.com/musfikabushra">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="http://linkedin.com/in/musfikarahmanbushra">
@@ -70,7 +70,7 @@
 
 | GitHub Streak | Top Languages |
 |---------------|---------------|
-| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=noorjahanmim&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noorjahanmim&theme=tokyonight)|
+| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=musfikabushra&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=musfikabushra&theme=tokyonight)|
 
 </div>
 
@@ -86,6 +86,6 @@
 
 <div align="center">
   
-[![Musfika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noorjahanmim&theme=dracula&hide_border=true&area=true)](https://github.com/noorjahanmim)
+[![Musfika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=musfikabushra&theme=dracula&hide_border=true&area=true)](https://github.com/musfikabushra)
 
 </div>
